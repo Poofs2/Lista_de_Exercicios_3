@@ -2,7 +2,7 @@
 
  Lista de Exercícios Sobre as Funções map, reduce, lambda e filter!
 
- Curso: Tecnólogo em Análise e Desenvolvimento de Sistemas
- Aluno: Sofia S. Passos
- Matéria: Algorítmos I
+# Curso: Tecnólogo em Análise e Desenvolvimento de Sistemas
+# Aluno: Sofia S. Passos
+# Matéria: Algorítmos I
 
